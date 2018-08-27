@@ -4,10 +4,9 @@ html {
 	height: 100vf;
 	width: 100%;
 	min-width: 775px;
-	
 	background-repeat: no-repeat;
 	background-size: cover;
-	overflow: none;
+	overflow: hidden;
 	font-family: 'Raleway', sans-serif;
 }
 
@@ -95,7 +94,7 @@ nav {
 	width: 60%;
 	min-width: 775px;
 	color: black;
-	margin: 0 auto;
+	margin: 0 auto 0 auto;
 	padding: 0;
 }
 
@@ -109,7 +108,7 @@ ul {
 	animation-name: navN;
 	animation-duration: 0.5s;
 	margin: 0;
-	padding: 25px 15px;
+	padding: 25px 0px;
 	display: inline-block;
 	position: relative;
 	float: left;
@@ -135,7 +134,7 @@ ul {
 .selected {
 	border-bottom: 3px solid #F50057;
 	margin: 0;
-	padding: 25px 15px;
+	padding: 25px 0px;
 	display: inline-block;
 	position: relative;
 	float: left;
@@ -155,23 +154,25 @@ a {
 	position: relative;
 	width: 80%;
 	min-width: 770px;
-	height: auto;
+	height: 200px;
 	text-align: center;
 	font-style: italic;
 	color: #424242;
 	margin: 0 auto 0 auto;
-	padding-top: 40px;
+	padding-top: 150px;
 	font-size: 19px;
 	line-height: 2em;
 }
 
 #menu {
 	display: block;
-	position: fixed;
+	position: relative;
 	z-index: 99;
 	width: 100%;
 	height: auto;
 	background-color: rgba(255, 255, 255, 1);
+	margin:0;
+	padding:0;
 }
 
 #contactTable {
