@@ -4,7 +4,7 @@ html {
 	height: 100vf;
 	width: 100%;
 	min-width: 775px;
-	background-image: url("../Images/home-wallpaper.jpg");
+	
 	background-repeat: no-repeat;
 	background-size: cover;
 	overflow: none;
@@ -228,7 +228,7 @@ p {
 	display:grid;
 	position: relative;
 	grid-template-columns: 120px auto;
-	grid-template-rows: minmax(100px, auto) minmax(0px, 100px);
+	grid-template-rows: minmax(100px, auto) minmax(0px, 120px);
 	width:100%;
 	height:auto;
 	min-height: 100px;
@@ -246,18 +246,68 @@ p {
 .projectSum {
 	display: block;
 	position: relative;
+	text-align: left;
 }
 
 .projectSum p {
 	text-align: justify;
 	padding:10px 10px 10px 0;
 	margin:0;
+	cursor: default;
 }
 
 .projectSum h2 {
 	color:#424242;
 	margin:10px 0;
 	text-align: left;
+	cursor: default;
+}
+
+.projectSS {
+	animation-name: imgN;
+	animation-duration: 0.4s;
+	opacity:1;
+	width:auto;
+	height:100px;
+	margin-left:10px;
+	border:1px solid white;
+}
+
+.projectSSC {
+	display:block;
+	height:125px;
+	grid-area: 2 / 1 / 2 / span 2;
+	padding:10px 0;
+	overflow:auto;
+	white-space: nowrap;
+}
+
+.projectSSC a {
+	float:left;
+}
+
+.projectSS:hover {
+	animation-name: imgH;
+	animation-duration: 0.4s;
+	border-color:#F50057;
+}
+
+.projectSum a {
+	animation-name: dwnN;
+	animation-duration: 0.3s;
+	display:block;
+	position: relative;
+	text-align: left;
+	font-size: 20px;
+	color:#283593;
+	margin:15px 0;
+	font-weight: bold;
+}
+
+.projectSum a:hover {
+	animation-name: dwnH;
+	animation-duration: 0.3s;
+	color:#F50057;
 }
 
 /*----------------------------------------------------*/
@@ -277,6 +327,42 @@ p {
 	}
 	to {
 		border-bottom: 3px solid #FCE4EC
+	}
+}
+
+@keyframes imgH {
+	from {
+		border-color:white;
+	}
+	to {
+		border-color:#F50057;
+	}
+}
+
+@keyframes imgN {
+	from {
+		border-color:#F50057;
+	}
+	to {
+		border-color:white;
+	}
+}
+
+@keyframes dwnH {
+	from {
+		color:#283593;
+	}
+	to {
+		color:#F50057;
+	}
+}
+
+@keyframes dwnN {
+	from {
+		color:#F50057;
+	}
+	to {
+		color:#283593;
 	}
 }
 
