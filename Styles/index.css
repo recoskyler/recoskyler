@@ -105,8 +105,6 @@ ul {
 }
 
 .navBtn {
-	animation-name: navN;
-	animation-duration: 0.5s;
 	margin: 0;
 	padding: 25px 0px;
 	display: inline-block;
@@ -117,11 +115,10 @@ ul {
 	border-bottom: 3px solid #FCE4EC;
 	color: #283593;
 	font-size: 18px;
+	transition: border-bottom 0.4s ease-in-out;
 }
 
 .navBtn:hover {
-	animation-name: navH;
-	animation-duration: 0.5s;
 	border-bottom: 3px solid #F50057;
 }
 
@@ -265,13 +262,12 @@ p {
 }
 
 .projectSS {
-	animation-name: imgN;
-	animation-duration: 0.4s;
 	opacity:1;
 	width:auto;
 	height:100px;
 	margin-left:10px;
 	border:1px solid white;
+	transition: border-color 0.4s ease-in-out;
 }
 
 .projectSSC {
@@ -288,14 +284,10 @@ p {
 }
 
 .projectSS:hover {
-	animation-name: imgH;
-	animation-duration: 0.4s;
 	border-color:#F50057;
 }
 
 .projectSum a {
-	animation-name: dwnN;
-	animation-duration: 0.3s;
 	display:block;
 	position: relative;
 	text-align: left;
@@ -303,68 +295,9 @@ p {
 	color:#283593;
 	margin:15px 0;
 	font-weight: bold;
+	transition: color 0.3s ease-in-out;
 }
 
 .projectSum a:hover {
-	animation-name: dwnH;
-	animation-duration: 0.3s;
 	color:#F50057;
 }
-
-/*----------------------------------------------------*/
-
-@keyframes navH {
-	from {
-		border-bottom: 3px solid #FCE4EC
-	}
-	to {
-		border-bottom: 3px solid #F50057;
-	}
-}
-
-@keyframes navN {
-	from {
-		border-bottom: 3px solid #F50057;
-	}
-	to {
-		border-bottom: 3px solid #FCE4EC
-	}
-}
-
-@keyframes imgH {
-	from {
-		border-color:white;
-	}
-	to {
-		border-color:#F50057;
-	}
-}
-
-@keyframes imgN {
-	from {
-		border-color:#F50057;
-	}
-	to {
-		border-color:white;
-	}
-}
-
-@keyframes dwnH {
-	from {
-		color:#283593;
-	}
-	to {
-		color:#F50057;
-	}
-}
-
-@keyframes dwnN {
-	from {
-		color:#F50057;
-	}
-	to {
-		color:#283593;
-	}
-}
-
-/*----------------------------------------------------*/
