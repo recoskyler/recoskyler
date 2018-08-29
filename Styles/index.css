@@ -107,7 +107,7 @@ ul {
 .navBtn {
 	margin: 0;
 	padding: 25px 0px;
-	display: inline-block;
+	display: block;
 	position: relative;
 	float: left;
 	font-weight: 600;
@@ -132,7 +132,7 @@ ul {
 	border-bottom: 3px solid #F50057;
 	margin: 0;
 	padding: 25px 0px;
-	display: inline-block;
+	display: block;
 	position: relative;
 	float: left;
 	font-weight: 600;
