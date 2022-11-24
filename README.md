@@ -1,3 +1,5 @@
+## About Me
+
 I'm a developer from Turkey. I've been curious about computers, technology, electronics, and programming since my childhoold, thanks to my computer engineer uncle. I started programming when I was ~14ish. I'm currently working as a developer with dev-ops and cyber-security background.
 
 From the hobby perspective; I like starting new projects, and leaving them for brand new projects all the time, so expect a lot of bugs in the repositories.
