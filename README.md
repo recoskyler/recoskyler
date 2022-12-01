@@ -11,7 +11,8 @@ Please feel free to support me, _if you don't have anything better to do with yo
 ### My Features
 
 - Laziness
-- Laziness
+- More Laziness
+- Efficient working due to laziness, this way I don't have to work a lot to get a good result
 - Great at procastination
 - Being able to sleep a lot
 - Amazing curly hair
@@ -33,3 +34,5 @@ Please feel free to support me, _if you don't have anything better to do with yo
 - [Programming (_recursion_)](https://github.com/recoskyler)
 - Reading books (once every year, when I get the motivation burst)
 - Watching movies
+
+Check out a list of my interests/things I find awesome/legendary/nostalgic in [recoskyler/awesome](https://github.com/recoskyler/awesome).
