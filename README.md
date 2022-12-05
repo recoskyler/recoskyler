@@ -6,7 +6,7 @@ From the hobby perspective; I like starting new projects, and leaving them for b
 
 Please feel free to support me, _if you don't have anything better to do with your money_:
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/recoskyler)
+<a href='https://ko-fi.com/recoskyler' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 
 ### My Features
 
