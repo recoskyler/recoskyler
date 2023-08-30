@@ -1,28 +1,34 @@
-## About Me
+## About me
 
-I'm a developer from Turkey. I've been curious about computers, technology, electronics, and programming since my childhoold, thanks to my computer engineer uncle. I started programming when I was ~14ish. I'm currently working as a developer with dev-ops and cyber-security background.
+Full-stack developer from Turkey, Tallinn University of Technology - Cybersecurity (BSc | 2023) graduate, that is passionate about technology and has a solid grounding in programming since 2013. Throughout my journey, I've embraced coding as both a hobby and a profession, firmly believing in Mark Twain and Confucius' advice: "Find a job you love, and you will never have to work a day in your life." I appreciate learning new programming languages and tech stacks to expand my horizons and stay on the cutting edge of innovation, and I thrive on lifelong learning.
 
-From the hobby perspective; I like starting new projects, and leaving them for brand new projects all the time, so expect a lot of bugs in the repositories.
+### Experience
+
+I started programming in 2013 because I was fascinated by computers and technology. I developed a passion for development and quickly mastered the principles of coding by starting with ComputerCraft and lua programming language. My uncle, a computer engineer, served as my inspiration as I committed myself to learning numerous programming languages and frameworks.
+
+### Professional Development
+
+I sought formal education in cyber-security and participated in a number of seminars and courses (Java, C++, Arduino C) to stay up to date with market trends and best practices. I've expanded my knowledge of full-stack development by exploring technologies like React.js, Flutter, and Python thanks to my dedication to learning.
+
+### Soft Skills
+
+In addition to my technical proficiency, I also have good problem-solving, teamwork, and communication skills. I support encouraging a collaborative atmosphere where ideas can grow and produce effective solutions. Mission and Vision:
+I'm excited to work for an organization that values innovation and is equally as enthusiastic about cutting-edge technologies as I am. In order to develop seamless user experiences and promote corporate success, I hope to contribute my wide skill set. I'm eager to work with like-minded professionals as a team player to produce outstanding outcomes.
+
+### Conclusion
+
+I'm committed to pushing boundaries, making outstanding products, and developing professionally as I continue my adventure in the world of development. I am an invaluable asset to any firm because of my unwavering commitment to my trade and my enthusiasm to take on new challenges. I'm excited to offer my knowledge and enthusiasm to the success of a creative and forward-thinking team.
+
+---
 
 Please feel free to support me, _if you don't have anything better to do with your money_:
 
 <a href='https://ko-fi.com/recoskyler' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 
-### My Features
-
-- Laziness
-- More Laziness
-- Efficient working due to laziness, this way I don't have to work a lot to get a good result
-- Great at procastination
-- Being able to sleep a lot
-- Amazing curly hair
-- I LOVE CATS 😺
-- **You probably underestimate my power of procastination**
+---
 
 ### My Hobbies
 
-- Sleeping
-- Lazing around
 - [Gaming](https://steamcommunity.com/id/recoskyler)
 - [DSLR photography](https://instagram.com/recoskyler)
   - Macro (insects/flowers/textures)
@@ -34,5 +40,7 @@ Please feel free to support me, _if you don't have anything better to do with yo
 - [Programming (_recursion_)](https://github.com/recoskyler)
 - Reading books (once every year, when I get the motivation burst)
 - Watching movies
+- Sleeping
+- Petting cats
 
 Check out a list of my interests/things I find awesome/legendary/nostalgic in [recoskyler/awesome](https://github.com/recoskyler/awesome).
