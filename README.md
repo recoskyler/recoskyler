@@ -15,16 +15,6 @@ I sought formal education in cyber-security and participated in a number of semi
 In addition to my technical proficiency, I also have good problem-solving, teamwork, and communication skills. I support encouraging a collaborative atmosphere where ideas can grow and produce effective solutions. Mission and Vision:
 I'm excited to work for an organization that values innovation and is equally as enthusiastic about cutting-edge technologies as I am. In order to develop seamless user experiences and promote corporate success, I hope to contribute my wide skill set. I'm eager to work with like-minded professionals as a team player to produce outstanding outcomes.
 
-### Conclusion
-
-I'm committed to pushing boundaries, making outstanding products, and developing professionally as I continue my adventure in the world of development. I am an invaluable asset to any firm because of my unwavering commitment to my trade and my enthusiasm to take on new challenges. I'm excited to offer my knowledge and enthusiasm to the success of a creative and forward-thinking team.
-
----
-
-Please feel free to support me, _if you don't have anything better to do with your money_:
-
-<a href='https://ko-fi.com/recoskyler' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-
 ---
 
 ### My Hobbies
